@@ -5,4 +5,4 @@ function showHello (divName: string, name: string) {
   elt.innerText = sayHello(name);
 }
 
-showHello('greeting', 'Typescript');
+showHello('greeting', 'Typescript, I learn you.');
